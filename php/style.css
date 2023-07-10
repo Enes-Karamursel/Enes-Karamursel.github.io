@@ -1,0 +1,78 @@
+/* #navbar{
+    background-color: gainsboro;
+    color:black;
+}
+
+#navbar ul{
+	padding: 0;
+	list-style: none;
+    text-align: center;
+}
+
+#navbar li{
+	display: inline;
+    
+}
+
+#navbar a{
+	color: black;
+	text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 18px;
+	padding-right: 45px;
+} */
+
+#Introduction{
+	background-color: lightgrey;
+	text-align: center;
+	border-style: double;
+	border-color: black;
+}
+
+#myPhoto{
+	float: left;
+}
+
+#mySkills{
+	border-style: double;
+	border-color: black;
+
+}
+
+#MySocials{
+	border-style: double;
+	border-color: black;
+}
+
+#form{
+	border-style: double;
+	border-color: black;
+}
+
+
+#aboutMe a{
+    color: black;
+	text-decoration: none;
+}
+
+#aboutMe{
+    display: inline;
+
+}
+
+#AboutMe{
+	text-align: center;
+}
+
+#skillsUl li{
+    margin-bottom: 10px ;
+
+}
+
+#container-my-5{
+	padding: 20px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
